@@ -52,8 +52,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Framework\Framework.csproj">
-      <Project>{E016639A-3771-404E-9BC9-49D858D027E7}</Project>
+    <ProjectReference Include="..\Framework\Framework.csproj">
+      <Project>{803FEBD2-54D2-4008-B33A-46A57B150032}</Project>
       <Name>Framework</Name>
     </ProjectReference>
   </ItemGroup>
